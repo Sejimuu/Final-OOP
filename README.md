@@ -12,7 +12,7 @@ This is a Single Page Appliaction with client-side rendering
 <br>
 <br> Trello: https://trello.com/invite/b/ge2Ttmsv/cb6bae08022c2123cdf022ec85ea05b4/tasks
 <br>
-<br> YouTube(Instructions on our site): https://youtu.be/QikYhmlAV4g
+<br> YouTube(Instructions on our site): https://you
 <br>
 <br> Swagger: https://sleepy-dusk-06573.herokuapp.com/api/swagger-ui/index.html?configUrl=/api/v3/api-docs/swagger-config#/user-controller
 <br>
