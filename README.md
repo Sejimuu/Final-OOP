@@ -5,7 +5,7 @@ This is a Single Page Appliaction with client-side rendering
 <br> This app was created for University Final BackEnd Exam
 
 ## Team: 
-<br> Ravshan Khamidov
+<br> Nursultan Asan uulu, Bekturov Aidar
 
 ## links:
 <br> Figma: https://www.figma.com/file/QsxGit6hicGwQu8riGeKfN/Untitled?node-id=0%3A1
